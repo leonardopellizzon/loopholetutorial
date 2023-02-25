@@ -54,6 +54,11 @@ incolla alla fine il seguente testo e premi ^X e Y per uscire e salvare:
 export PATH=$PATH:/urs/local/bin/loophole
 ```
 
+esegui il login:
+```
+loophole account login
+```
+
 inizia ad usare loophole:
 ```
 loophole http [porta] --hostname [dominio]
